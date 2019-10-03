@@ -68,6 +68,6 @@ li[title]:after {
 }
 li[title]:hover::after {
      content: "?";
-	 color: red;
+	 color: blue;
 	 padding-right:3px;
 }

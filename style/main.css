@@ -64,10 +64,10 @@ body
 li[title]:after {
      content: "¶";
 	 color: white;
-	 padding-right:3px;
+	 margin-left:3px;
 }
 li[title]:hover::after {
      content: "?";
 	 color: blue;
-	 padding-right:3px;
+	 margin-left:3px;
 }
